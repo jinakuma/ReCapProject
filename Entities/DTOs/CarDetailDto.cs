@@ -10,6 +10,6 @@ namespace Entities.DTOs
         public string CarName { get; set; }
         public string BrandName { get; set; }
         public string ColorName { get; set; }
-        public float DailyPrice { get; set; }
+        public double DailyPrice { get; set; }
     }
 }
